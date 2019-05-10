@@ -15,7 +15,7 @@ def caesar_cipher(phrase, key)
     new.join('')
 end
 
-puts caesar_cipher("hello world", -8)
+
 # user_shift = ''
 
 # while true do
